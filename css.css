@@ -189,7 +189,7 @@
             display: block;
             width: 100px;
             height: 4px;
-            background: var(--primary-color);
+            background: var(--text-primary);
             margin: 1rem auto 0;
         }
 
